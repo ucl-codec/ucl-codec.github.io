@@ -32,7 +32,7 @@ CC_LICENSE = {
 }
 
 # Theme
-THEME = "/Users/marcella/pelican-themes/flex"
+THEME = "extra/pelican-themes/flex"
 
 # Main page
 MAIN_MENU = False
