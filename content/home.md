@@ -12,5 +12,20 @@ Our research focuses on developing and applying computer science approaches to d
 
 Through our work and several collaborations (including the DEMON Network) we aim to develop interpretable generative models that can provide healthcare professionals and patients with useful and actionable information.
 
-
+<img align="center" src='/images/CODEC.jpg'/> 
 ![](images/CODEC.jpg)
+
+
+<table border="0">
+ <tr>
+    <td align="center"><h4></h4></td>
+    <td align="center"><h4></h4></td>
+    <td align="center"><h4></h4></td>
+    <td align="center"><h4></h4></td>
+ </tr>
+  <tr>
+    <td align="center"><h4><img src='/images/neil.png' width="170" height="190"/> </h4></td>
+    <td align="center"><h4><img src='/images/tim.jpg' height="190"/></h4></td>
+    <td align="center"><h4><img src='/images/david.jpg' height="190"/></h4></td>
+    <td align="center"><h4><img src='/images/Zuzana.png' height="190"/></h4></td>
+</table>
