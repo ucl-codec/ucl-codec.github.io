@@ -4,5 +4,5 @@ Author: MM
 Category: News
 
 
-Some exciting news from our lab XXX
+Some exciting news from our lab -
 

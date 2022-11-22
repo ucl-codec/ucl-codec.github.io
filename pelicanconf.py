@@ -14,6 +14,8 @@ PYGMENTS_STYLE = "monokai"
 COPYRIGHT_YEAR = datetime.date.today().year
 TIMEZONE = "Europe/London"
 DEFAULT_LANG = "en"
+OUTPUT_PATH = "docs/"
+
 
 PATH = "content"
 STATIC_PATHS = [
@@ -32,7 +34,7 @@ CC_LICENSE = {
 }
 
 # Theme
-THEME = "extra/pelican-themes/Flex"
+THEME = "Flex"
 
 # Main page
 MAIN_MENU = False

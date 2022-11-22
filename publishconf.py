@@ -11,7 +11,6 @@ SITEURL = 'https://github.com/ucl-codec/ucl-codec.github.io'
 DOMAIN = SITEURL
 FEED_DOMAIN = SITEURL
 HTTPS = True
-
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
