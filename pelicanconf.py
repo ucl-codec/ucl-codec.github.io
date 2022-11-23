@@ -39,8 +39,13 @@ THEME = "Flex"
 # Main page
 MAIN_MENU = False
 HOME_HIDE_TAGS = True
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 PAGES_SORT_ATTRIBUTE = "order"
+
+LINKS = (('news', '/pages/news.html#news'),
+         ('our projects', '/pages/our-projects.html#our-projects'),
+         ('team', '/pages/our-team.html#our-team'), 
+         (' contact us', '/pages/contact-us.html#contact-us') )
 
 # Social
 
