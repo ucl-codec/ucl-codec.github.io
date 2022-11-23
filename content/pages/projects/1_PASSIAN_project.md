@@ -2,6 +2,7 @@ Title: PROJECTS
 Date: 2022-11-01 09:20
 Author: MM
 Category: Project
+status: hidden
 
 <style>
 td {
