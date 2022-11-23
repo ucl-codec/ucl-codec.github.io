@@ -1,5 +1,7 @@
 Title: Welcome!
-Date: 2022-11-01 09:20
+status: hidden
+URL:
+save_as: welcome.html
 
 ### Welcome to CODEC - Decoding Cognitive Decline
 ################################
