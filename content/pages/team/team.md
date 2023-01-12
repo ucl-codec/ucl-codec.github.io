@@ -23,7 +23,7 @@ unique value for this call, rapidly piloting infrastructure to build AI research
     <td align="center"><h4>Zuzana Walker, PI</h4></td>
  </tr>
   <tr>
-    <td align="center"><h4><img src='/images/neil.png' width="170" height="190"/> </h4></td>
+    <td align="center"><h4><img src='/images/neil.png' height="190"/> </h4></td>
     <td align="center"><h4><img src='/images/tim.jpg' height="190"/></h4></td>
     <td align="center"><h4><img src='/images/david.jpg' height="190"/></h4></td>
     <td align="center"><h4><img src='/images/Zuzana.png' height="190"/></h4></td>
